@@ -1,0 +1,10 @@
+{
+  "per_topic_kappa": {
+    "Trump's economy": 0.7727272727272727,
+    "Biden's economy": 0.6875,
+    "REIN IN ACT": 1.0,
+    "Inflation Reduction Act": 0.7321428571428572,
+    "CHIPS Act": 0.7727272727272727
+  },
+  "average_kappa": 0.7930194805194806
+}

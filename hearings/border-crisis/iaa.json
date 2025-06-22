@@ -1,0 +1,7 @@
+{
+  "per_topic_kappa": {
+    "Biden-Harris Administration's Immigration Policies": 0.25,
+    "Former President Trump's Immigration Policies": 0.6551724137931034
+  },
+  "average_kappa": 0.4525862068965517
+}

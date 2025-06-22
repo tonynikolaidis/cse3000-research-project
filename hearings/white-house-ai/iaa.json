@@ -1,0 +1,7 @@
+{
+  "per_topic_kappa": {
+    "Executive Order": 0.5862068965517242,
+    "OMB guidance": 0.7446808510638299
+  },
+  "average_kappa": 0.665443873807777
+}

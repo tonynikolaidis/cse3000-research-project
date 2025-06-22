@@ -1,0 +1,167 @@
+<View>
+    <Style>
+      .box {
+        font-family: "Times New Roman", serif !important;
+        background: #FDF6E3;
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+      }
+      .container {
+        flex: 50%;
+        padding: 20px;
+        max-width: 900px;
+      }
+      .excerpt {
+        max-width: 700px;
+        min-width: 600px;
+      }
+      .stances {
+        position: sticky;
+        top: 16px;
+
+        max-width: 700px;
+        min-width: 600px;
+        
+        align-self: flex-start;
+      }
+      .text * {
+        font-family: "Times New Roman", serif !important;
+        font-size: 20px;
+        line-height: 2;
+        text-align: justify;
+      }
+      .box h4.ant-typography {
+        font-size: 24px;
+      }
+
+      .stance-header-row {
+        display: flex;
+      }
+      .stance-header-row .topic-header {
+        flex: 1;
+        font-weight: bold;
+      }
+      .stance-header-row .options-header {
+        flex: 2;
+        display: flex;
+        justify-content: space-around;
+        font-weight: bold;
+      }
+
+      .stance-row {
+        display: flex;
+        align-items: center;
+        margin-bottom: 10px;
+      }
+      .stance-label {
+        flex: 1;
+        font-size: 16px;
+        padding-right: 10px;
+      }
+      .stance-options .ant-checkbox-wrapper {
+        margin: 0 !important;
+      }
+      .lsf-choices {
+        margin: 0 !important;
+      }
+    </Style>
+
+    <View className="box">
+      <View className="container excerpt">
+        <Header value="Excerpt"></Header>
+        <View className="text">
+          <Text name="text" value="$text" />
+        </View>
+      </View>
+      <View className="container stances">
+        <Header value="Stances"/>
+    
+        <View className="stance-row">
+          <View className="stance-label">
+            <Text name="stance-1" value="1. Bidenomics"/>
+          </View>
+          <View className="stance-options">
+            <Choices name="stance-on-topic-1" toName="text" choice="single" showInLine="true">
+              <Choice value="Negative"/>
+              <Choice value="Neutral" selected="true"/>
+              <Choice value="Positive"/>
+            </Choices>
+          </View>
+        </View>
+        <View className="stance-row">
+          <View className="stance-label">
+            <Text name="stance-2" value="2. Climate Policies"/>
+          </View>
+          <View className="stance-options">
+            <Choices name="stance-on-topic-2" toName="text" choice="single" showInLine="true">
+              <Choice value="Negative"/>
+              <Choice value="Neutral" selected="true"/>
+              <Choice value="Positive"/>
+            </Choices>
+          </View>
+        </View>
+        <View className="stance-row">
+          <View className="stance-label">
+            <Text name="stance-3" value="3. Economic Recovery Bills"/>
+          </View>
+          <View className="stance-options">
+            <Choices name="stance-on-topic-3" toName="text" choice="single" showInLine="true">
+              <Choice value="Negative"/>
+              <Choice value="Neutral" selected="true"/>
+              <Choice value="Positive"/>
+            </Choices>
+          </View>
+        </View>
+        <View className="stance-row">
+          <View className="stance-label">
+            <Text name="stance-4" value="4. Infrastructure Bills"/>
+          </View>
+          <View className="stance-options">
+            <Choices name="stance-on-topic-4" toName="text" choice="single" showInLine="true">
+              <Choice value="Negative"/>
+              <Choice value="Neutral" selected="true"/>
+              <Choice value="Positive"/>
+            </Choices>
+          </View>
+        </View>
+        <View className="stance-row">
+          <View className="stance-label">
+            <Text name="stance-5" value="5. Tarrifs"/>
+          </View>
+          <View className="stance-options">
+            <Choices name="stance-on-topic-5" toName="text" choice="single" showInLine="true">
+              <Choice value="Negative"/>
+              <Choice value="Neutral" selected="true"/>
+              <Choice value="Positive"/>
+            </Choices>
+          </View>
+        </View>
+        <View className="stance-row">
+          <View className="stance-label">
+            <Text name="stance-6" value="6. Project 2025"/>
+          </View>
+          <View className="stance-options">
+            <Choices name="stance-on-topic-6" toName="text" choice="single" showInLine="true">
+              <Choice value="Negative"/>
+              <Choice value="Neutral" selected="true"/>
+              <Choice value="Positive"/>
+            </Choices>
+          </View>
+        </View>
+        <View className="stance-row">
+          <View className="stance-label">
+            <Text name="stance-7" value="7. Donald Trump"/>
+          </View>
+          <View className="stance-options">
+            <Choices name="stance-on-topic-7" toName="text" choice="single" showInLine="true">
+              <Choice value="Negative"/>
+              <Choice value="Neutral" selected="true"/>
+              <Choice value="Positive"/>
+            </Choices>
+          </View>
+        </View>
+
+      </View>
+    </View>
+</View>

@@ -1,0 +1,9 @@
+Before producing your CSV output, you must internally reason through each stance decision for each speaker. Your default label is 0 (neutral).
+
+For any non-neutral label (1 or -1), follow this procedure:
+1. Find Evidence First: Search the transcript for a specific part where the speaker’s words suggest a clear stance.
+2. Decide: If you believe the content supports a stance, tentatively assign 1 or -1.
+3. Verify Justification: Check whether your explanation truly and explicitly supports the assigned label.
+4. Revert if Unjustified: If the justification does not clearly warrant the stance, revert the label to 0.
+
+Only assign a stance when you have explicit and supportable reasoning grounded in the transcript.

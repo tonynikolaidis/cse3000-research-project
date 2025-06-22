@@ -1,0 +1,9 @@
+{
+  "per_topic_kappa": {
+    "AI executive order": 1.0,
+    "Worker protections from AI": 0.37142857142857144,
+    "Close AI legal loopholes": 0.717948717948718,
+    "AI regulation hinders innovation": 0.8253968253968254
+  },
+  "average_kappa": 0.7286935286935288
+}

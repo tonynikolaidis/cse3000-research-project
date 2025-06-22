@@ -1,0 +1,9 @@
+You will output a CSV table and nothing else. The CSV must look like this:
+
+Speaker,Topic 1,Topic 2,...
+Mr. <Last Name>,1,-1
+Ms. <Last Name>,-1,1
+Dr. <Last Name>,0,1
+...
+
+Each row must correspond to a speaker and each cell must contain `1`, `-1`, or `0`.

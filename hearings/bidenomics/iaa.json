@@ -1,0 +1,7 @@
+{
+  "per_topic_kappa": {
+    "Biden-Harris Administration's economic policies": 0.6857142857142857,
+    "Republican economic policies": 0.11111111111111116
+  },
+  "average_kappa": 0.39841269841269844
+}

@@ -1,0 +1,91 @@
+Example 1:
+
+- Excerpt from a transcript:
+"    Chairman Comer. Unfortunately, the FDA under President Biden is suffering 
+from dysfunction and is failing to do bare minimum to carry out 
+its core mission, which is to make certain our Nation's food 
+and drug products are safe and effective. Further, the FDA 
+appears consistently unprepared for certain crises. That is why 
+our Committee has conducted several investigations into areas 
+of concern at the FDA. These investigations have identified a 
+pattern of issues within the FDA."
+
+- Topic:
+FDA under Biden
+
+- Stance of Chairman Comer towards "FDA under Biden":
+-1 (Negative)
+
+
+Example 2:
+
+- Excerpt from a transcript:
+"    Mr. Raskin. Under Biden, FDA has improved access to contraception and protections 
+for medication abortion access. In 2021, FDA advanced the 
+accessibility of medication abortion by removing the in-person 
+dispensing requirement for mifepristone and allowing it to be 
+distributed by mail through retail pharmacies. In July 2023, 
+FDA approved the first over-the-counter birth control pill, 
+Opill. As a result, consumers' access to contraception has 
+improved at a critical time when many states are enacting 
+increasingly draconian and oppressive abortion restrictions."
+
+- Topic:
+FDA under Biden
+
+- Stance of Mr. Raskin towards "FDA under Biden":
+1 (Positive)
+
+
+Example 3:
+- Excerpt from a transcript:
+"    Mr. Gosar. I thank the Chairman. Now obviously, the FDA 
+made a mistake in granting the Emergency Use Authorization and 
+license of COVID-19 vaccines. It has been confirmed that the 
+vaccines do not stop transmission. Moreover, 1,635,048 injuries 
+due to COVID-19 vaccines have been reported to the Health and 
+Human Services through the Vaccine Adverse Event Reporting 
+System, including 37,382 deaths."
+
+- Topic:
+FDA under Biden
+
+- Stance of Mr. Gosar towards "FDA under Biden":
+-1 (Negative)
+
+
+Example 4:
+
+- Excerpt from a transcript:
+"    Dr. Califf. FDA's continued oversight will be critical until supply 
+chains are more resilient, particularly for infant formula. We 
+will continue to promote competition in manufacturing quality 
+and implement modernized systems to respond to shortages 
+faster. It is why we have requested additional authorities that 
+would provide more visibility into the supply chain."
+
+- Topic:
+FDA under Biden
+
+- Stance of Mr. Califf towards "FDA under Biden":
+0 (Neutral)
+
+
+Example 5:
+- Excerpt from a transcript:
+"    Mr. Grothman. Throughout the COVID 
+epidemic, I spoke multiple times on the floor with regard to 
+the value of vitamin D. Now, the adequate level of vitamin D 
+varies depending upon how you talk to, you know, 20 nanograms, 
+30 nanograms, 50 nanograms, but whatever the study you look at, 
+the number of lives saved if everybody had adequate levels of 
+vitamin D is tremendous, OK? It is a relatively cheap vitamin, 
+but for whatever reason it was not pushed by the medical 
+establishment and resulted, in my opinion, in the deaths of 
+hundreds of thousands of people."
+
+- Topic:
+FDA under Biden
+
+- Stance of Mr. Grothman towards "FDA under Biden":
+0 (Neutral)

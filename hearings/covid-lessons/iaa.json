@@ -1,0 +1,7 @@
+{
+  "per_topic_kappa": {
+    "The government's response to the COVID-19 pandemic": 1.0,
+    "The Select Subcommittee's work during the COVID-19 pandemic": 1.0
+  },
+  "average_kappa": 1.0
+}

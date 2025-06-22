@@ -1,0 +1,50 @@
+{
+  "chatgpt-4o-latest/zero_shot.csv": {
+    "accuracy": 0.6868,
+    "precision": 0.6607,
+    "recall": 0.6759,
+    "f1": 0.6367
+  },
+  "chatgpt-4o-latest/few_shot.csv": {
+    "accuracy": 0.6424,
+    "precision": 0.5989,
+    "recall": 0.6397,
+    "f1": 0.584
+  },
+  "chatgpt-4o-latest/zero_shot_cot.csv": {
+    "accuracy": 0.7083,
+    "precision": 0.7172,
+    "recall": 0.7257,
+    "f1": 0.689
+  },
+  "chatgpt-4o-latest/few_shot_cot.csv": {
+    "accuracy": 0.7141,
+    "precision": 0.7075,
+    "recall": 0.683,
+    "f1": 0.6655
+  },
+  "o3/zero_shot.csv": {
+    "accuracy": 0.7486,
+    "precision": 0.7317,
+    "recall": 0.7692,
+    "f1": 0.7226
+  },
+  "o3/few_shot.csv": {
+    "accuracy": 0.771,
+    "precision": 0.7772,
+    "recall": 0.7879,
+    "f1": 0.7558
+  },
+  "o3/zero_shot_cot.csv": {
+    "accuracy": 0.749,
+    "precision": 0.7688,
+    "recall": 0.7609,
+    "f1": 0.7312
+  },
+  "o3/few_shot_cot.csv": {
+    "accuracy": 0.7792,
+    "precision": 0.7986,
+    "recall": 0.7808,
+    "f1": 0.7583
+  }
+}

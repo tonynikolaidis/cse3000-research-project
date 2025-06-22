@@ -1,0 +1,12 @@
+{
+  "per_topic_kappa": {
+    "Bidenomics": 0.7105263157894737,
+    "Climate Policies": 0.8513513513513513,
+    "Economic Recovery Bills": 0.8607594936708861,
+    "Infrastructure Bills": 0.5925925925925926,
+    "Tarrifs": 0.7924528301886793,
+    "Project 2025": 0.3125000000000001,
+    "Donald Trump": 0.717948717948718
+  },
+  "average_kappa": 0.6911616145059573
+}
