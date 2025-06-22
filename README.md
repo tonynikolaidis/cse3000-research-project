@@ -35,6 +35,18 @@ I used Label Studio to annotate the hearings in the dataset. Installation instru
 
 ## Usage
 
+### Create a New Hearing Template
+
+To start annotating a new hearing transcript, run:
+
+```bash
+python create_new_hearing.py <folder>
+```
+
+The `folder` field determines the name of the folder that will be created inside the `hearings` directory. All files required to get you started will be automatically created.
+
+Next, you should add the transcript to the `hearing.txt` file.
+
 Before proceeding with the following steps, it's recommended to remove all non-dialogue elements from transcripts.
 
 ### Preprocessing
@@ -49,14 +61,12 @@ The output is in JSON format, which you can directly import into Label Studio.
 
 ### Create the Annotation Interface for Label Studio
 
-First, create a TXT file with the topics that you want to annotate stance towards. The format of the file must be as follows:
+First, add the topics that you want to annotate stance towards to the `topics.txt` file. The format of the file must be as follows:
 
 ```txt
 Topic 1
 Topic 2
-.
-.
-.
+...
 ```
 
 Then, run the following script:
